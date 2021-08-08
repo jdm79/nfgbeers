@@ -9,16 +9,16 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          hello world. more content coming shortly...
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          this website will soon be listing naturally gluten-free beer available in Europe (and probably everywhere else too in time).
+          naturally gluten-free beer is beer made without gluten (i.e not made with barley and then 'deglutenised').
+          we're talking beer for sensitive celiac/gf beer lovers like me.
+        </p>
+        <p>
+          please send info on any naturally gluten-free beers to: james.malvern@gmail.com
+        </p>
       </header>
     </div>
   );
