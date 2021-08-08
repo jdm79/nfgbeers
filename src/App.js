@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import  {beers} from './beers';
+
 
 function App() {
   return (
